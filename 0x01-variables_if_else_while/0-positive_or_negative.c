@@ -1,12 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 /**
- * main - this is a function for the task
- * Return: always 0
+ * main - this is a function for this task
+ * Return: Always 0
  */
+/* more headers goes there */
 /* betty style doc for function main goes there */
+
 int main(void)
 {
 	int n;
